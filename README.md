@@ -8,11 +8,13 @@ This guide will help you setup the Raspberry Pi to act as a Bluetooth Audio Serv
 ## Needed Items To Download Before Proceeding
 
   - Before installing an updates, it is recommended to first update your Raspberry Pi firmware
-- ```sudo rpi-update
-    ```
+```sh
+sudo rpi-update
+```
   - Run this
-- ```sudo apt-get update && sudo apt-get install bluez pulseaudio-module-bluetooth python-gobject python-gobject-2 bluez-tools udev
-    ```
+```sh
+sudo apt-get update && sudo apt-get install bluez pulseaudio-module-bluetooth python-gobject python-gobject-2 bluez-tools udev
+```
 
 ## Configuring PulseAudio
 
