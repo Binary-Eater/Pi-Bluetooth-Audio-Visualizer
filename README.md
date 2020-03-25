@@ -80,12 +80,12 @@ pactl list
 ```
 
 In my code, I set the SINK_NAME using the following line.
-SINK_NAME = 'alsa_output.0.analog-stereo'
+`SINK_NAME = 'alsa_output.0.analog-stereo'`
 
 ### Version
 0.0.1
 
-Copyright Babu
+Copyright Rahul Rameshbabu
 
 ### Tech
 
