@@ -72,7 +72,7 @@ make
 sudo make install
 ```
 
-You can now use the babumusicsync.py script in the repository to do music visualization using the Raspberry Pi.
+You can now use the musicsync.py script in the repository to do music visualization using the Raspberry Pi.
 Just be sure to set your SINK_NAME correctly based on the output of the following command.
 
 ```sh
